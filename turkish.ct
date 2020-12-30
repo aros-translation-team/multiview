@@ -1,14 +1,14 @@
 ## version $VER: multiview.catalog 1.0 (23.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
 MSG_CANT_OPEN_LIB
-%s V%ld aÃ§Ä±lamadÄ±!\n
+%s V%ld açýlamadý!\n
 ; Can't open %s V%ld!\n
 ;
 MSG_CANT_CREATE_IC
-Ara baÄŸlantÄ± nesneleri oluÅŸturalamadÄ±!
+Ara baðlantý nesneleri oluþturalamadý!
 ; Can't create interconnection objects!
 ;
 MSG_CANT_LOCK_SCR
@@ -16,35 +16,35 @@ Genel ekran kilitlenemedi!
 ; Can't lock public screen!
 ;
 MSG_CANT_GET_DRI
-DrawInfo alÄ±namadÄ±!
+DrawInfo alýnamadý!
 ; Can't get DrawInfo!
 ;
 MSG_CANT_GET_VI
-VisualInfo alÄ±namadÄ±!
+VisualInfo alýnamadý!
 ; Can't get VisualInfo!
 ;
 MSG_CANT_CREATE_SYSIMAGE
-SYSICLASS imajlarÄ± oluÅŸturulamadÄ±!
+SYSICLASS imajlarý oluþturulamadý!
 ; Can't create SYSICLASS images!
 ;
 MSG_CANT_CREATE_GADGET
-AraÃ§ takÄ±mlarÄ± oluÅŸturulamadÄ±!
+Araç takýmlarý oluþturulamadý!
 ; Can't create gadgets!
 ;
 MSG_CANT_CREATE_MENUS
-MenÃ¼ler oluÅŸturulamadÄ±!
+Menüler oluþturulamadý!
 ; Can't create menus!
 ;
 MSG_CANT_CREATE_WIN
-Pencere oluÅŸturulamadÄ±!
+Pencere oluþturulamadý!
 ; Can't create window!
 ;
 MSG_CANT_CREATE_MSGPORT
-Mesaj portu oluÅŸturulamadÄ±!
+Mesaj portu oluþturulamadý!
 ; Can't create message port!
 ;
 MSG_CANT_ADD_APPWINDOW
-Pencereyi bir uygulama penceresi olarak tanÄ±mlanamadÄ±!
+Pencereyi bir uygulama penceresi olarak tanýmlanamadý!
 ; Can't promote window as an AppWindow!
 ;
 MSG_SAVE_FAILED
@@ -56,11 +56,11 @@ Proje
 ; Project
 ;
 MSG_MEN_PROJECT_OPEN
-O\0AÃ§...
+O\0Aç...
 ; O\0Open...
 ;
 MSG_MEN_PROJECT_EXPORT
-A\0DÄ±ÅŸa aktar...
+A\0Dýþa aktar...
 ; A\0Export...
 ;
 MSG_MEN_PROJECT_SAVEAS_IFF
@@ -68,23 +68,23 @@ I\0IFF olarak kaydet...
 ; I\0Save as IFF...
 ;
 MSG_MEN_PROJECT_PRINT
-P\0YazdÄ±r
+P\0Yazdýr
 ; P\0Print
 ;
 MSG_MEN_PROJECT_ABOUT
-?\0HakkÄ±nda...
+?\0Hakkýnda...
 ; ?\0About...
 ;
 MSG_MEN_PROJECT_QUIT
-Q\0Ã‡Ä±kÄ±ÅŸ
+Q\0Çýkýþ
 ; Q\0Quit
 ;
 MSG_MEN_EDIT
-DÃ¼zen
+Düzen
 ; Edit
 ;
 MSG_MEN_EDIT_MARK
-B\0Ä°ÅŸaretle
+B\0Ýþaretle
 ; B\0Mark
 ;
 MSG_MEN_EDIT_COPY
@@ -92,11 +92,11 @@ C\0Kopyala
 ; C\0Copy
 ;
 MSG_MEN_EDIT_SELECTALL
-[\0TÃ¼mÃ¼nÃ¼ SeÃ§
+[\0Tümünü Seç
 ; [\0Select All
 ;
 MSG_MEN_EDIT_CLEARSELECTED
-]\0SeÃ§imi Temizle
+]\0Seçimi Temizle
 ; ]\0Clear Selected
 ;
 MSG_MEN_WINDOW
@@ -104,11 +104,11 @@ Pencere
 ; Window
 ;
 MSG_MEN_WINDOW_SEPSCREEN
-\0AyrÄ± Ekran Kullan
+\0Ayrý Ekran Kullan
 ;  \0Use Separate Screen
 ;
 MSG_MEN_WINDOW_MINIMIZE
-\0KÃ¼Ã§Ã¼lt
+\0Küçült
 ;  \0Minimize
 ;
 MSG_MEN_WINDOW_NORMAL
@@ -116,7 +116,7 @@ MSG_MEN_WINDOW_NORMAL
 ;  \0Normal
 ;
 MSG_MEN_WINDOW_MAXIMIZE
-\0BÃ¼yÃ¼t
+\0Büyüt
 ;  \0Maximize
 ;
 MSG_MEN_SETTINGS
@@ -124,7 +124,7 @@ Ayarlar
 ; Settings
 ;
 MSG_MEN_SETTINGS_SAVEDEF
-D\0VarsayÄ±lan Olarak Kaydet
+D\0Varsayýlan Olarak Kaydet
 ; D\0Save As Defaults
 ;
 MSG_MEN_PICT
@@ -132,27 +132,27 @@ Resim
 ; Picture
 ;
 MSG_MEN_PICT_ZOOM_IN
-\0YakÄ±nlaÅŸ
+\0Yakýnlaþ
 ;  \0Zoom in
 ;
 MSG_MEN_PICT_ZOOM_OUT
-\0UzaklaÅŸ
+\0Uzaklaþ
 ;  \0Zoom out
 ;
 MSG_MEN_PICT_RESET
-\0Boyutu SÄ±fÄ±rla
+\0Boyutu Sýfýrla
 ;  \0Reset Size
 ;
 MSG_MEN_PICT_FIT_WIN
-\0Pencereye SÄ±ÄŸdÄ±r
+\0Pencereye Sýðdýr
 ;  \0Fit to Window
 ;
 MSG_MEN_PICT_KEEP_ASPECT
-\0En-boy oranÄ±nÄ± koru
+\0En-boy oranýný koru
 ;  \0Keep Aspect Ratio
 ;
 MSG_MEN_PICT_FORCE_MAP
-\0Palet EÅŸlemeyi Zorla
+\0Palet Eþlemeyi Zorla
 ;  \0Force Palette Mapping
 ;
 MSG_MEN_PICT_DITHER
@@ -164,7 +164,7 @@ Metin
 ; Text
 ;
 MSG_MEN_TEXT_WORDWRAP
-\0Kelime KaydÄ±rmayÄ± EtkinleÅŸtir
+\0Kelime Kaydýrmayý Etkinleþtir
 ;  \0Enable Word Wrap
 ;
 MSG_MEN_TEXT_SEARCH
@@ -172,7 +172,7 @@ MSG_MEN_TEXT_SEARCH
 ;  \0Search for...
 ;
 MSG_MEN_TEXT_SEARCH_PREV
-\0Ã–ncekini ara
+\0Öncekini ara
 ;  \0Search for previous
 ;
 MSG_MEN_TEXT_SEARCH_NEXT
@@ -180,11 +180,11 @@ MSG_MEN_TEXT_SEARCH_NEXT
 ;  \0Search for next
 ;
 MSG_ASL_OPEN_TITLE
-AÃ§Ä±lacak DosyayÄ± SeÃ§in
+Açýlacak Dosyayý Seçin
 ; Select File to Open
 ;
 MSG_ASL_SAVE_TITLE
-Kaydedilecek DosyayÄ± SeÃ§in
+Kaydedilecek Dosyayý Seçin
 ; Select File to Save to
 ;
 MSG_ABOUT

@@ -72,7 +72,7 @@ P\0Inprimatu
 ; P\0Print
 ;
 MSG_MEN_PROJECT_ABOUT
-?\0A...i buruz
+?\0A...i buruz...
 ; ?\0About...
 ;
 MSG_MEN_PROJECT_QUIT
@@ -96,7 +96,7 @@ MSG_MEN_EDIT_SELECTALL
 ; [\0Select All
 ;
 MSG_MEN_EDIT_CLEARSELECTED
-]\0Kendu hautaketa 
+]\0Kendu hautaketa
 ; ]\0Clear Selected
 ;
 MSG_MEN_WINDOW

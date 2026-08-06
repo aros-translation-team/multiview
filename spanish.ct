@@ -44,7 +44,7 @@ MSG_CANT_CREATE_MSGPORT
 ; Can't create message port!
 ;
 MSG_CANT_ADD_APPWINDOW
-No se pudo promocionar la ventana a AppWindow! 
+No se pudo promocionar la ventana a AppWindow!
 ; Can't promote window as an AppWindow!
 ;
 MSG_SAVE_FAILED

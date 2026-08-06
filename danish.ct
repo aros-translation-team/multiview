@@ -1,0 +1,207 @@
+## version $VER: multiview.catalog 2.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_CANT_OPEN_LIB
+Kan ikke åbne %s V%ld!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_CREATE_IC
+Kan ikke oprette forbindelsesobjekter!
+; Can't create interconnection objects!
+;
+MSG_CANT_LOCK_SCR
+Kan ikke låse offentlig skærm!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+Kan ikke indhente DrawInfo!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+Kan ikke indhente VisualInfo!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_SYSIMAGE
+Kan ikke oprette SYSICLASS-billeder!
+; Can't create SYSICLASS images!
+;
+MSG_CANT_CREATE_GADGET
+Kan ikke oprette gadgets!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+Kan ikke oprette menuer!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+Kan ikke oprette vinduer!
+; Can't create window!
+;
+MSG_CANT_CREATE_MSGPORT
+Kan ikke oprette beskedport!
+; Can't create message port!
+;
+MSG_CANT_ADD_APPWINDOW
+Kan ikke gøre vinduet til et programvindue!
+; Can't promote window as an AppWindow!
+;
+MSG_SAVE_FAILED
+Lagring til fil mislykkedes!
+; Saving to file failed!
+;
+MSG_MEN_PROJECT
+Projekt
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Åbn...
+; O\0Open...
+;
+MSG_MEN_PROJECT_EXPORT
+A\0Eksportér...
+; A\0Export...
+;
+MSG_MEN_PROJECT_SAVEAS_IFF
+I\0Gem som IFF...
+; I\0Save as IFF...
+;
+MSG_MEN_PROJECT_PRINT
+P\0Udskriv
+; P\0Print
+;
+MSG_MEN_PROJECT_ABOUT
+?\0Om...
+; ?\0About...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0Afslut
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Redigér
+; Edit
+;
+MSG_MEN_EDIT_MARK
+B\0Markér
+; B\0Mark
+;
+MSG_MEN_EDIT_COPY
+C\0Kopiér
+; C\0Copy
+;
+MSG_MEN_EDIT_SELECTALL
+[\0Markér alt
+; [\0Select All
+;
+MSG_MEN_EDIT_CLEARSELECTED
+]\0Fjern markering
+; ]\0Clear Selected
+;
+MSG_MEN_WINDOW
+Vindue:
+; Window
+;
+MSG_MEN_WINDOW_SEPSCREEN
+ \0Brug separat skærm
+;  \0Use Separate Screen
+;
+MSG_MEN_WINDOW_MINIMIZE
+ \0Minimér
+;  \0Minimize
+;
+MSG_MEN_WINDOW_NORMAL
+ \0Normal
+;  \0Normal
+;
+MSG_MEN_WINDOW_MAXIMIZE
+ \0Maksimér
+;  \0Maximize
+;
+MSG_MEN_SETTINGS
+Indstillinger
+; Settings
+;
+MSG_MEN_SETTINGS_SAVEDEF
+D\0Gem som standard
+; D\0Save As Defaults
+;
+MSG_MEN_PICT
+Billede
+; Picture
+;
+MSG_MEN_PICT_ZOOM_IN
+ \0Zoom ind
+;  \0Zoom in
+;
+MSG_MEN_PICT_ZOOM_OUT
+ \0Zoom ud
+;  \0Zoom out
+;
+MSG_MEN_PICT_RESET
+ \0Nulstil størrelse
+;  \0Reset Size
+;
+MSG_MEN_PICT_FIT_WIN
+ \0Tilpas til vindue
+;  \0Fit to Window
+;
+MSG_MEN_PICT_KEEP_ASPECT
+ \0Bevar højde-/breddeforhold
+;  \0Keep Aspect Ratio
+;
+MSG_MEN_PICT_FORCE_MAP
+ \0Gennemtving palettetilknytning
+;  \0Force Palette Mapping
+;
+MSG_MEN_PICT_DITHER
+ \0Dithering
+;  \0Dithering
+;
+MSG_MEN_TEXT
+Tekst
+; Text
+;
+MSG_MEN_TEXT_WORDWRAP
+ \0Aktivér tekstombrydning
+;  \0Enable Word Wrap
+;
+MSG_MEN_TEXT_SEARCH
+ \0Søg efter...
+;  \0Search for...
+;
+MSG_MEN_TEXT_SEARCH_PREV
+ \0Søg efter forrige
+;  \0Search for previous
+;
+MSG_MEN_TEXT_SEARCH_NEXT
+ \0Søg efter næste
+;  \0Search for next
+;
+MSG_ASL_OPEN_TITLE
+Vælg fil til åbning
+; Select File to Open
+;
+MSG_ASL_SAVE_TITLE
+Vælg fil at gemme til
+; Select File to Save to
+;
+MSG_ABOUT
+
+;
+MSG_ABOUT_TITLE
+MultiView
+; MultiView
+;
+MSG_CONTINUE
+Fortsæt
+; Continue
+;
+MSG_OK
+O.k.
+; Ok
+;
+MSG_SHORTCUT_EDITOR
+E
+; E
+;

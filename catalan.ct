@@ -1,0 +1,207 @@
+## version $VER: multiview.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_CANT_OPEN_LIB
+No es pot obrir %s V%ld!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_CREATE_IC
+No es poden crear els objectes d'interconnexió!
+; Can't create interconnection objects!
+;
+MSG_CANT_LOCK_SCR
+No es pot bloquejar la pantalla pública!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+No es pot obtenir el DrawInfo!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+No es pot obtenir el VisualInfo!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_SYSIMAGE
+No es poden crear les imatges SYSICLASS!
+; Can't create SYSICLASS images!
+;
+MSG_CANT_CREATE_GADGET
+No es poden crear els gadgets!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+No es poden crear els menús!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+No es pot crear la finestra!
+; Can't create window!
+;
+MSG_CANT_CREATE_MSGPORT
+No es pot crear el port de missatges!
+; Can't create message port!
+;
+MSG_CANT_ADD_APPWINDOW
+No es pot convertir la finestra en una AppWindow!
+; Can't promote window as an AppWindow!
+;
+MSG_SAVE_FAILED
+No s'ha pogut desar al fitxer!
+; Saving to file failed!
+;
+MSG_MEN_PROJECT
+Projecte
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Obrir...
+; O\0Open...
+;
+MSG_MEN_PROJECT_EXPORT
+A\0Exportar...
+; A\0Export...
+;
+MSG_MEN_PROJECT_SAVEAS_IFF
+I\0Desar com IFF...
+; I\0Save as IFF...
+;
+MSG_MEN_PROJECT_PRINT
+P\0Imprimir
+; P\0Print
+;
+MSG_MEN_PROJECT_ABOUT
+?\0Sobre...
+; ?\0About...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0Sortir
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Editar
+; Edit
+;
+MSG_MEN_EDIT_MARK
+B\0Marcar
+; B\0Mark
+;
+MSG_MEN_EDIT_COPY
+C\0Copiar
+; C\0Copy
+;
+MSG_MEN_EDIT_SELECTALL
+[\0Seleccionar-ho tot
+; [\0Select All
+;
+MSG_MEN_EDIT_CLEARSELECTED
+]\0Netejar la selecció
+; ]\0Clear Selected
+;
+MSG_MEN_WINDOW
+Finestra
+; Window
+;
+MSG_MEN_WINDOW_SEPSCREEN
+ \0Usar pantalla separada
+;  \0Use Separate Screen
+;
+MSG_MEN_WINDOW_MINIMIZE
+ \0Minimitzar
+;  \0Minimize
+;
+MSG_MEN_WINDOW_NORMAL
+ \0Normal
+;  \0Normal
+;
+MSG_MEN_WINDOW_MAXIMIZE
+ \0Maximitzar
+;  \0Maximize
+;
+MSG_MEN_SETTINGS
+Paràmetres
+; Settings
+;
+MSG_MEN_SETTINGS_SAVEDEF
+D\0Desar com a valors per defecte
+; D\0Save As Defaults
+;
+MSG_MEN_PICT
+Imatge
+; Picture
+;
+MSG_MEN_PICT_ZOOM_IN
+ \0Apropar
+;  \0Zoom in
+;
+MSG_MEN_PICT_ZOOM_OUT
+ \0Allunyar
+;  \0Zoom out
+;
+MSG_MEN_PICT_RESET
+ \0Restablir mida
+;  \0Reset Size
+;
+MSG_MEN_PICT_FIT_WIN
+ \0Ajustar a la finestra
+;  \0Fit to Window
+;
+MSG_MEN_PICT_KEEP_ASPECT
+ \0Mantenir relació d'aspecte
+;  \0Keep Aspect Ratio
+;
+MSG_MEN_PICT_FORCE_MAP
+ \0Forçar mapatge de paleta
+;  \0Force Palette Mapping
+;
+MSG_MEN_PICT_DITHER
+ \0Tramat
+;  \0Dithering
+;
+MSG_MEN_TEXT
+Text
+; Text
+;
+MSG_MEN_TEXT_WORDWRAP
+ \0Activar ajust de línia
+;  \0Enable Word Wrap
+;
+MSG_MEN_TEXT_SEARCH
+ \0Cercar...
+;  \0Search for...
+;
+MSG_MEN_TEXT_SEARCH_PREV
+ \0Cercar anterior
+;  \0Search for previous
+;
+MSG_MEN_TEXT_SEARCH_NEXT
+ \0Cercar següent
+;  \0Search for next
+;
+MSG_ASL_OPEN_TITLE
+Seleccionar el fitxer a obrir
+; Select File to Open
+;
+MSG_ASL_SAVE_TITLE
+Seleccionar el fitxer on desar
+; Select File to Save to
+;
+MSG_ABOUT
+
+;
+MSG_ABOUT_TITLE
+MultiView
+; MultiView
+;
+MSG_CONTINUE
+Continuar
+; Continue
+;
+MSG_OK
+D'acord
+; Ok
+;
+MSG_SHORTCUT_EDITOR
+E
+; E
+;

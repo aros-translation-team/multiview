@@ -1,0 +1,207 @@
+## version $VER: multiview.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_CANT_OPEN_LIB
+Kan %s V%ld niet openen!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_CREATE_IC
+Kan verbindingsobjecten niet aanmaken!
+; Can't create interconnection objects!
+;
+MSG_CANT_LOCK_SCR
+Kan publiek scherm niet vergrendelen!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+Kan DrawInfo niet verkrijgen!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+Kan VisualInfo niet verkrijgen!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_SYSIMAGE
+Kan SYSICLASS-afbeeldingen niet aanmaken!
+; Can't create SYSICLASS images!
+;
+MSG_CANT_CREATE_GADGET
+Kan gadgets niet aanmaken!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+Kan menu's niet aanmaken!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+Kan venster niet aanmaken!
+; Can't create window!
+;
+MSG_CANT_CREATE_MSGPORT
+Kan message port niet aanmaken!
+; Can't create message port!
+;
+MSG_CANT_ADD_APPWINDOW
+Kan het venster niet tot AppWindow promoveren!
+; Can't promote window as an AppWindow!
+;
+MSG_SAVE_FAILED
+Bewaren naar bestand mislukt!
+; Saving to file failed!
+;
+MSG_MEN_PROJECT
+Project
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Open...
+; O\0Open...
+;
+MSG_MEN_PROJECT_EXPORT
+A\0Exporteren...
+; A\0Export...
+;
+MSG_MEN_PROJECT_SAVEAS_IFF
+I\0Bewaar als IFF...
+; I\0Save as IFF...
+;
+MSG_MEN_PROJECT_PRINT
+P\0Afdrukken
+; P\0Print
+;
+MSG_MEN_PROJECT_ABOUT
+?\0Over...
+; ?\0About...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0Einde
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Bewerken
+; Edit
+;
+MSG_MEN_EDIT_MARK
+B\0Markeer
+; B\0Mark
+;
+MSG_MEN_EDIT_COPY
+C\0Kopieer
+; C\0Copy
+;
+MSG_MEN_EDIT_SELECTALL
+[\0Selecteer alles
+; [\0Select All
+;
+MSG_MEN_EDIT_CLEARSELECTED
+]\0Wis selectie
+; ]\0Clear Selected
+;
+MSG_MEN_WINDOW
+Venster
+; Window
+;
+MSG_MEN_WINDOW_SEPSCREEN
+ \0Eigen scherm gebruiken
+;  \0Use Separate Screen
+;
+MSG_MEN_WINDOW_MINIMIZE
+ \0Minimaliseren
+;  \0Minimize
+;
+MSG_MEN_WINDOW_NORMAL
+ \0Normaal
+;  \0Normal
+;
+MSG_MEN_WINDOW_MAXIMIZE
+ \0Maximaliseren
+;  \0Maximize
+;
+MSG_MEN_SETTINGS
+Instellingen
+; Settings
+;
+MSG_MEN_SETTINGS_SAVEDEF
+D\0Bewaar als standaard
+; D\0Save As Defaults
+;
+MSG_MEN_PICT
+Afbeelding
+; Picture
+;
+MSG_MEN_PICT_ZOOM_IN
+ \0Inzoomen
+;  \0Zoom in
+;
+MSG_MEN_PICT_ZOOM_OUT
+ \0Uitzoomen
+;  \0Zoom out
+;
+MSG_MEN_PICT_RESET
+ \0Oorspronkelijke grootte
+;  \0Reset Size
+;
+MSG_MEN_PICT_FIT_WIN
+ \0Passend in venster
+;  \0Fit to Window
+;
+MSG_MEN_PICT_KEEP_ASPECT
+ \0Beeldverhouding behouden
+;  \0Keep Aspect Ratio
+;
+MSG_MEN_PICT_FORCE_MAP
+ \0Kleurpalet forceren
+;  \0Force Palette Mapping
+;
+MSG_MEN_PICT_DITHER
+ \0Dithering
+;  \0Dithering
+;
+MSG_MEN_TEXT
+Tekst
+; Text
+;
+MSG_MEN_TEXT_WORDWRAP
+ \0Regelterugloop inschakelen
+;  \0Enable Word Wrap
+;
+MSG_MEN_TEXT_SEARCH
+ \0Zoeken naar...
+;  \0Search for...
+;
+MSG_MEN_TEXT_SEARCH_PREV
+ \0Vorige zoeken
+;  \0Search for previous
+;
+MSG_MEN_TEXT_SEARCH_NEXT
+ \0Volgende zoeken
+;  \0Search for next
+;
+MSG_ASL_OPEN_TITLE
+Kies bestand om te openen
+; Select File to Open
+;
+MSG_ASL_SAVE_TITLE
+Kies bestand om naar te bewaren
+; Select File to Save to
+;
+MSG_ABOUT
+
+;
+MSG_ABOUT_TITLE
+MultiView
+; MultiView
+;
+MSG_CONTINUE
+Doorgaan
+; Continue
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_SHORTCUT_EDITOR
+E
+; E
+;

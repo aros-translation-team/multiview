@@ -1,4 +1,4 @@
-## version $VER: multiview.catalog 1.0 (18.10.2000)
+## version $VER: multiview.catalog 2.0 (06.08.2026)
 ## codeset 0
 ## language svenska
 ;
@@ -29,6 +29,18 @@ Kunde inte skapa menyerna!
 MSG_CANT_CREATE_WIN 
 Kunde inte öppna fönstret!
 ;
+MSG_CANT_CREATE_MSGPORT
+Kunde inte skapa meddelandeport!
+; Can't create message port!
+;
+MSG_CANT_ADD_APPWINDOW
+Kunde inte göra fönstret till ett AppWindow!
+; Can't promote window as an AppWindow!
+;
+MSG_SAVE_FAILED
+Kunde inte spara till fil!
+; Saving to file failed!
+;
 MSG_MEN_PROJECT 
 Arkiv
 ;
@@ -37,6 +49,10 @@ O\0Öppna...
 ;
 MSG_MEN_PROJECT_EXPORT
 A\0Spara som...
+;
+MSG_MEN_PROJECT_SAVEAS_IFF
+I\0Spara som IFF...
+; I\0Save as IFF...
 ;
 MSG_MEN_PROJECT_PRINT 
 P\0Skriv ut
@@ -83,6 +99,58 @@ Inställningar
 MSG_MEN_SETTINGS_SAVEDEF 
 D\0Spara som standard
 ;
+MSG_MEN_PICT
+Bild
+; Picture
+;
+MSG_MEN_PICT_ZOOM_IN
+ \0Zooma in
+;  \0Zoom in
+;
+MSG_MEN_PICT_ZOOM_OUT
+ \0Zooma ut
+;  \0Zoom out
+;
+MSG_MEN_PICT_RESET
+ \0Återställ storlek
+;  \0Reset Size
+;
+MSG_MEN_PICT_FIT_WIN
+ \0Anpassa till fönster
+;  \0Fit to Window
+;
+MSG_MEN_PICT_KEEP_ASPECT
+ \0Behåll proportioner
+;  \0Keep Aspect Ratio
+;
+MSG_MEN_PICT_FORCE_MAP
+ \0Tvinga palettmappning
+;  \0Force Palette Mapping
+;
+MSG_MEN_PICT_DITHER
+ \0Dithering
+;  \0Dithering
+;
+MSG_MEN_TEXT
+Text
+; Text
+;
+MSG_MEN_TEXT_WORDWRAP
+ \0Aktivera radbrytning
+;  \0Enable Word Wrap
+;
+MSG_MEN_TEXT_SEARCH
+ \0Sök efter...
+;  \0Search for...
+;
+MSG_MEN_TEXT_SEARCH_PREV
+ \0Sök föregående
+;  \0Search for previous
+;
+MSG_MEN_TEXT_SEARCH_NEXT
+ \0Sök nästa
+;  \0Search for next
+;
 MSG_ASL_OPEN_TITLE 
 Välj fil att öppna
 ;
@@ -90,7 +158,7 @@ MSG_ASL_SAVE_TITLE
 Välj fil att spara till
 ;
 MSG_ABOUT 
-MultiView %ld.%ld (%s)\ndatatypes.library %s\n\n%s %s
+
 ;
 MSG_ABOUT_TITLE 
 MultiView
@@ -100,4 +168,8 @@ Fortsätt
 ;
 MSG_OK 
 OK
+;
+MSG_SHORTCUT_EDITOR
+E
+; E
 ;

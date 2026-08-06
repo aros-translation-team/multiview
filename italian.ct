@@ -1,4 +1,4 @@
-## version $VER: multiview.catalog 2.1 (08.05.2023)
+## version $VER: multiview.catalog 2.1 (06.08.2026)
 ## language italiano
 ## codeset 0
 ; Authors: AMIGASYSTEM
@@ -188,7 +188,7 @@ Salva file
 ; Select File to Save to
 ;
 MSG_ABOUT
-MultiView %ld.%ld (%s)\ndatatypes.library %s\n\n%s %s
+
 ; 
 ;
 MSG_ABOUT_TITLE

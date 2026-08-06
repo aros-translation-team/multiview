@@ -1,4 +1,4 @@
-## version $VER: multiview.catalog 2.0 (20.12.2020)
+## version $VER: multiview.catalog 2.0 (06.08.2026)
 ## codeset 2104
 ## language russian
 ;
@@ -143,7 +143,7 @@ MSG_ASL_SAVE_TITLE
 Выберите файл для сохранения
 ;
 MSG_ABOUT
-MultiView %ld.%ld (%s)\ndatatypes.library %s\n\n%s %s
+
 ;
 MSG_ABOUT_TITLE
 MultiView - Универсальный просмотрщик
